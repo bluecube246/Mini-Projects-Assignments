@@ -4,7 +4,7 @@ The Data Structure Project is a number of projects that are implemented using a 
 
 <h1>Delivery Android App Project</h1>
 
-The Android App Project is an android app made from the 
+The Android App Project is an android app made from the Delivery Project in the above Data Structure Projects code. 
 
 <h1>Project Cancer Classification</h1>
 
