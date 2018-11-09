@@ -1,10 +1,10 @@
 <h1>Data Structure Projects</h1>
 
-The Data Structure Project is a bunch of projects that are implemented using a specific data structure topic. Such as Linked lists, Stacks, Queues, Hashing, Graph algorithms and more. They consist hundreds of code.
+The Data Structure Project is a number of projects that are implemented using a specific data structure topic. Abstract data types, Linked lists, Stacks, Queues, Trees, Hashing, Graph algorithms and more. They consist of hundreds of lines of code. 
 
 <h1>Delivery Android App Project</h1>
 
-The Android App Project is the source code of an android applicaion made from one of the projects in the data structure projects folder.
+The Android App Project is an android app made from the 
 
 <h1>Project Cancer Classification</h1>
 
